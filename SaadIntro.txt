@@ -4,5 +4,4 @@ University: DHA Suffa University
 City: Karachi
 Semester: 5
 github: github.com/saadjumani
-faraz
-shakh
+ahmed faraz shaikh
