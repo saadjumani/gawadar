@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 //Syed Raahim Bukhari
 //Adnan Anwar Ali
+//Ahmed Faraz
 // code written by Muhammad Saad Jumani
 // this is an edited comment
 
